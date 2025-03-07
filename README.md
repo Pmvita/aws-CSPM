@@ -6,6 +6,10 @@
 [![GuardDuty](https://img.shields.io/badge/GuardDuty-Security-orange)](https://aws.amazon.com/guardduty/)
 [![SecurityHub](https://img.shields.io/badge/SecurityHub-Compliance-cyan)](https://aws.amazon.com/security-hub/)
 
+<div align="center">
+    <img src="./screenshots/cloudsec-logo.jpg" width="30%" style="border-radius: 50%;" />
+</div>
+
 ### AWS Cloud Security Management (CSPM) Terraform Setup
 
 This repository contains a Terraform configuration for setting up AWS Cloud Security Management (CSPM) with the integration of AWS Lambda, CloudWatch, GuardDuty, and SecurityHub. The resources are configured to monitor, trigger, and remediate security threats on AWS.
