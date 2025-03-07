@@ -22,7 +22,7 @@ This setup creates and configures the following AWS resources:
 
 ### Screenshot
 <div align="center">
-  <img src="./screenshots/video.gif" controls loop autoplay width="70%" />
+  <img src="./screenshots/video.gif" width="70%" />
 </div>
 
 ### Resources Created
