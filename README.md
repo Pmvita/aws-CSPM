@@ -20,9 +20,9 @@ This setup creates and configures the following AWS resources:
 	•	AWS IAM Roles: Custom roles to provide the necessary permissions to Lambda and other services.
 	•	AWS Config: Records AWS resource configurations and compliance statuses.
 
-### Screenshot
+### Video
 <div align="center">
-  <img src="./screenshots/video.gif" width="70%" />
+  <video src="./screenshots/video.mov" controls loop autoplay width="70%" />
 </div>
 
 ### Resources Created
